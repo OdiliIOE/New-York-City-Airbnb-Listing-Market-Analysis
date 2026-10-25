@@ -57,4 +57,5 @@ Median days marked available are **79 Brooklyn, 93 Manhattan, 137 Queens, 168 Br
 ## Author
 
 **Emmanuel Odili** · Data Analytics / Business Intelligence Portfolio
+
 [LinkedIn Profile](https://www.linkedin.com/in/odiliemmanuel)
