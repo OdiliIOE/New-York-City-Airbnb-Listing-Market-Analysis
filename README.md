@@ -4,7 +4,7 @@
 
 An exploratory analysis of Airbnb listing attributes across the five New York City boroughs. The case study investigates market distribution, listed prices, service fees, host verification, instant booking, cancellation policies, and calendar availability.
 
-> **Scope:** These are descriptive statistics for the supplied `Airbnb_Open_Data.csv`, **not** estimates of NYC's entire Airbnb marketplace. Collection date, sampling methodology, accuracy of some fields, and provenance have not been independently verified. Prices are advertised listing values, not booking transaction prices.
+**Scope:** These are descriptive statistics for the supplied `Airbnb_Open_Data.csv`, **not** estimates of NYC's entire Airbnb marketplace. Collection date, sampling methodology, accuracy of some fields, and provenance have not been independently verified. Prices are advertised listing values, not booking transaction prices.
 
 ## Key results
 
@@ -57,3 +57,4 @@ Median days marked available are **79 Brooklyn, 93 Manhattan, 137 Queens, 168 Br
 ## Author
 
 **Emmanuel Odili** · Data Analytics / Business Intelligence Portfolio
+[LinkedIn Profile](https://www.linkedin.com/in/odiliemmanuel)
